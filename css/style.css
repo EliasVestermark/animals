@@ -1,0 +1,82 @@
+html, body{
+    font-size: 16px;
+}
+
+.empty-space{
+    color: transparent;
+}
+
+header{
+    background-color: #b09b79;
+    color: #f6e8d2;
+
+    padding: 30px;
+    text-align: center;
+}
+
+main{
+    background-color: #f7f1e7;
+
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 180px;
+}
+
+footer{
+    background-color: #b09b79;
+    color: #e9d6bb;
+
+    padding: 15px;
+    
+    width: 100%;
+
+    text-align: center;
+    font-size: 1.25rem;
+
+    position: absolute;
+   
+}
+
+footer strong{
+    color: #f6e8d2;
+}
+
+#giraffe-image{
+    float: left;
+    margin-left: 15px;
+}
+
+#giraffe-text{
+    max-width: 35%;
+    word-wrap: break-word;
+    float: left;
+    
+    margin: 10px 0px 0px 15px
+}
+
+#trio-image{
+    margin: 10px;
+}
+
+#trio-text{
+    max-width: 310px;
+    word-wrap: break-word;
+    float: left;
+    text-align: center;
+    
+    margin: 10px 0px 0px 15px
+}
+
+.giraffe-main{
+
+}
+
+#killerwhale-image{
+    margin: 40px 10px;
+}
+
+#killerwhale{
+    
+}
